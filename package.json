@@ -2,7 +2,7 @@
   "name": "rewrite-proxy",
   "version": "0.0.1",
   "description": "Proxy that rewrites location and cookies",
-  "main": "lib/rewrite.js",
+  "main": "lib/rewrite-proxy.js",
   "author": "mbd@instructure.com",
   "license": "ISC",
   "repository": {
